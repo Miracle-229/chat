@@ -1,0 +1,9 @@
+.user-message {
+    justify-content: 'flex-end';
+    align-items: 'end';
+}
+
+.other-message {
+    justify-content: 'flex-start';
+    align-items: 'start';
+}
